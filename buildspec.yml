@@ -21,15 +21,15 @@ phases:
       - echo Current directory is $(pwd)
       - ls -l
       - echo Building the Docker image...
-      - docker build -t test .
+      - docker build -t test-core .
 
   post_build:
     commands:
       - echo Build completed on `date`
       - echo Tagging the Docker image...
-      - docker tag test:latest 847245319109.dkr.ecr.ap-south-1.amazonaws.com/test:latest
+      - docker tag test-core:latest 847245319109.dkr.ecr.ap-south-1.amazonaws.com/test-core:latest
       - echo Pushing the Docker image to ECR...
-      - docker push 847245319109.dkr.ecr.ap-south-1.amazonaws.com/test:latest
+      - docker push 847245319109.dkr.ecr.ap-south-1.amazonaws.com/test-core:latest
 
 artifacts:
   files: '**/*'
