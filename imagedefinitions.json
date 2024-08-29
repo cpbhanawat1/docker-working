@@ -1,6 +1,6 @@
 [
   {
-    "name": "test-app",
-    "imageUri": "847245319109.dkr.ecr.ap-south-1.amazonaws.com/test:latest"
+    "name": "test-app2",
+    "imageUri": "847245319109.dkr.ecr.ap-south-1.amazonaws.com/test-core:latest"
   }
 ]
