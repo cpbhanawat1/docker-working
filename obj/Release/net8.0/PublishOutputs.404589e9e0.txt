@@ -1,0 +1,5 @@
+/Users/chandresh-mac/Documents/docker-working/App/bin/Release/net8.0/publish/DotNet.Docker
+/Users/chandresh-mac/Documents/docker-working/App/bin/Release/net8.0/publish/DotNet.Docker.dll
+/Users/chandresh-mac/Documents/docker-working/App/bin/Release/net8.0/publish/DotNet.Docker.deps.json
+/Users/chandresh-mac/Documents/docker-working/App/bin/Release/net8.0/publish/DotNet.Docker.runtimeconfig.json
+/Users/chandresh-mac/Documents/docker-working/App/bin/Release/net8.0/publish/DotNet.Docker.pdb
