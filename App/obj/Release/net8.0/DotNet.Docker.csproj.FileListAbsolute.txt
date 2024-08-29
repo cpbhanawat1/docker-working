@@ -1,0 +1,14 @@
+/Users/chandresh-mac/Documents/docker-working/App/bin/Release/net8.0/DotNet.Docker
+/Users/chandresh-mac/Documents/docker-working/App/bin/Release/net8.0/DotNet.Docker.deps.json
+/Users/chandresh-mac/Documents/docker-working/App/bin/Release/net8.0/DotNet.Docker.runtimeconfig.json
+/Users/chandresh-mac/Documents/docker-working/App/bin/Release/net8.0/DotNet.Docker.dll
+/Users/chandresh-mac/Documents/docker-working/App/bin/Release/net8.0/DotNet.Docker.pdb
+/Users/chandresh-mac/Documents/docker-working/App/obj/Release/net8.0/DotNet.Docker.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chandresh-mac/Documents/docker-working/App/obj/Release/net8.0/DotNet.Docker.AssemblyInfoInputs.cache
+/Users/chandresh-mac/Documents/docker-working/App/obj/Release/net8.0/DotNet.Docker.AssemblyInfo.cs
+/Users/chandresh-mac/Documents/docker-working/App/obj/Release/net8.0/DotNet.Docker.csproj.CoreCompileInputs.cache
+/Users/chandresh-mac/Documents/docker-working/App/obj/Release/net8.0/DotNet.Docker.dll
+/Users/chandresh-mac/Documents/docker-working/App/obj/Release/net8.0/refint/DotNet.Docker.dll
+/Users/chandresh-mac/Documents/docker-working/App/obj/Release/net8.0/DotNet.Docker.pdb
+/Users/chandresh-mac/Documents/docker-working/App/obj/Release/net8.0/DotNet.Docker.genruntimeconfig.cache
+/Users/chandresh-mac/Documents/docker-working/App/obj/Release/net8.0/ref/DotNet.Docker.dll
