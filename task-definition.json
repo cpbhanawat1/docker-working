@@ -1,5 +1,5 @@
 {
-    "taskDefinitionArn": "arn:aws:ecs:ap-south-1:804676532635:task-definition/test-td:1",
+    #"taskDefinitionArn": "arn:aws:ecs:ap-south-1:804676532635:task-definition/test-td:1",
     "containerDefinitions": [
         {
             "name": "Main",
@@ -36,10 +36,10 @@
     "family": "test-td",
     "executionRoleArn": "arn:aws:iam::804676532635:role/ecsTaskExecutionRole",
     "networkMode": "awsvpc",
-    "revision": 1,
+    #"revision": 1,
     "volumes": [],
-    "status": "ACTIVE",
-    "requiresAttributes": [
+    #"status": "ACTIVE",
+    #"requiresAttributes": [
         {
             "name": "com.amazonaws.ecs.capability.logging-driver.awslogs"
         },
@@ -80,8 +80,8 @@
     ],
     "cpu": "256",
     "memory": "512",
-    "registeredAt": "2026-10-14T05:13:12.979Z",
-    "registeredBy": "arn:aws:iam::804676532635:root",
-    "enableFaultInjection": false,
+    #"registeredAt": "2026-10-14T05:13:12.979Z",
+    #"registeredBy": "arn:aws:iam::804676532635:root",
+    #"enableFaultInjection": false,
     "tags": []
 }
